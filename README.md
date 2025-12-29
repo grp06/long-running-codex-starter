@@ -1,3 +1,7 @@
+# GETTING STARTED
+
+clone this and go to .agent/scribbles/scrib1.md and just type out what you want. Then tell codex to start the task. It should go for a while.
+
 I've been using this prompting guide and wanted to try to extend it so that it can get codex to run for even longer. 
 
 https://cookbook.openai.com/articles/codex_exec_plans
